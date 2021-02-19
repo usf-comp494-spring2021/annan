@@ -1,0 +1,13 @@
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.exe
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.deps.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.runtimeconfig.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.runtimeconfig.dev.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\bin\Debug\netcoreapp3.1\Week4Fib.pdb
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.csprojAssemblyReference.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.AssemblyInfo.cs
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.pdb
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Week4Fib\obj\Debug\netcoreapp3.1\Week4Fib.genruntimeconfig.cache

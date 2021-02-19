@@ -8,6 +8,7 @@
  *              the number and state if the number is even or odd
  */
 using System;
+// using static System.Console;
 
 namespace Homework02
 {
