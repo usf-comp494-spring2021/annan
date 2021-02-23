@@ -1,0 +1,16 @@
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.exe
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.deps.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.runtimeconfig.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.runtimeconfig.dev.json
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\ref\Ch5.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\bin\Debug\net5.0\Ch5.pdb
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.csprojAssemblyReference.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.AssemblyInfoInputs.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.AssemblyInfo.cs
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\ref\Ch5.dll
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.pdb
+C:\Users\harry\OneDrive - University of St. Francis\7_2021 Spring\C#\Projects\Ch5\obj\Debug\net5.0\Ch5.genruntimeconfig.cache
