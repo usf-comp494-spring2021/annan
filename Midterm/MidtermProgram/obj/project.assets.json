@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CalculatorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorLib/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorLib/CalculatorLib.csproj",
+      "msbuildProject": "../CalculatorLib/CalculatorLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CalculatorLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\harry\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\harry\\OneDrive - University of St. Francis\\7_2021 Spring\\C#\\Projects\\Midterm\\MidtermProgram\\MidtermProgram.csproj",
+      "projectName": "MidtermProgram",
+      "projectPath": "C:\\Users\\harry\\OneDrive - University of St. Francis\\7_2021 Spring\\C#\\Projects\\Midterm\\MidtermProgram\\MidtermProgram.csproj",
+      "packagesPath": "C:\\Users\\harry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\harry\\OneDrive - University of St. Francis\\7_2021 Spring\\C#\\Projects\\Midterm\\MidtermProgram\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\harry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\harry\\OneDrive - University of St. Francis\\7_2021 Spring\\C#\\Projects\\Midterm\\CalculatorLib\\CalculatorLib.csproj": {
+              "projectPath": "C:\\Users\\harry\\OneDrive - University of St. Francis\\7_2021 Spring\\C#\\Projects\\Midterm\\CalculatorLib\\CalculatorLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
