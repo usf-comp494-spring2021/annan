@@ -1,0 +1,37 @@
+﻿@model WeatherForecastMVC.Models.WeatherForecastModel
+@{
+    ViewData["Title"] = "WeatherForecast";
+}
+
+<h1>Weather Forecast</h1>
+
+<div style="position: relative; text-align: center; color: white;">
+    <img src="~/images/@Model.imagePath" alt="@Model.imagePath" style="width:100%;">
+    <div style="text-shadow: 2px 2px #000000; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -75%);">
+        <h3>
+            @Model.location<br />
+            @Model.forecastDate
+        </h3>
+    </div>
+</div>
+
+<div>
+    <strong>Temperature: </strong>@Model.temperature°F<br />
+    <strong>Feels like: </strong>@Model.feelsLike°F<br />
+    <strong>Descriptor: </strong>@Model.descriptor<br />
+    <strong>Wind speed: </strong>@Model.windSpeed mph<br />
+    <strong>Wind direction: </strong>@Model.windDirection<br />
+    <strong>Pressure: </strong>@Model.pressure kPa<br />
+</div>
+@*<div>
+        <p style="text-align:center">
+            <strong>Temperature: </strong>@Model.temperature°F<br />
+            <strong>Feels like: </strong>@Model.feelsLike°F<br />
+            <strong>Descriptor: </strong>@Model.descriptor<br />
+            <strong>Wind speed: </strong>@Model.windSpeed mph<br />
+            <strong>Wind direction: </strong>@Model.windDirection<br />
+            <strong>Pressure: </strong>@Model.pressure kPa<br />
+        </p>
+            <img class="d-block w-100" src="~/images/@Model.imagePath"
+                 alt="@Model.imagePath"/>
+    </div>*@

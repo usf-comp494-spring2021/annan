@@ -1,0 +1,29 @@
+﻿@model WeatherForecastMVC.Models.WeatherForecastDetailsModel
+@{ 
+    ViewData["Title"] = "WeatherForecastDetails";
+}
+
+<h1>Weather Forecast Details</h1>
+<h3>
+    @Model.location<br />
+    @Model.forecastDate
+</h3>
+
+<div style="column-count:2">
+    <p>
+        <strong>Temperature: </strong>@Model.temperature°F<br />
+        <strong>Feels like: </strong>@Model.feelsLike°F<br />
+        <strong>Descriptor: </strong>@Model.descriptor<br />
+        <strong>Wind speed: </strong>@Model.windSpeed mph<br />
+        <strong>Wind direction: </strong>@Model.windDirection<br />
+        <strong>Pressure: </strong>@Model.pressure kPa<br />
+        <strong>Visibility: </strong>@Model.visibility%<br />
+        <strong>Clouds: </strong>@Model.clouds<br />
+        <strong>Humidity: </strong>@Model.humidity%<br />
+        <strong>Rainfall: </strong>@Model.rainfall%<br />
+        <strong>Snowfall: </strong>@Model.snowfall%<br />
+    </p>
+</div>
+
+<img class="d-block w-100" src="~/images/@Model.imagePath"
+     alt="@Model.imagePath" />
